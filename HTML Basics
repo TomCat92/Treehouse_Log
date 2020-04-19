@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html> <!--Basic Template of HTML Code-->
   <head>
     <title>Experience VR</title>
   </head>
-   
+<!--  Basic Information -->
   <body>
      <Div>
      <header>
         <h1>Experience VR</h1>
-        <p>A simple blog about virtual reality experiences</p>
+        <p>A <em>simple</em> blog about virtual reality experiences</p>
         
        <nav>
         <ul>
+<!-- Standard Header Information -->
           <li><a href="../../index.html">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Articles</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="../../index.html#about">About</a></li>
+          <li><a href="../../index.html#articles">Articles</a></li>
+          <li><a href="../../index.html#contact">Contact</a></li>
+<!--End of Standard Information-->
         </ul>
        </nav>
       </header>
@@ -27,7 +29,7 @@
         </div>
       
       <main>
-        <section>
+        <section id="about">
           <h2>About this site</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula metus in bibendum laoreet. Aenean libero est, egestas eu eros pretium, sodales iaculis est.</p>
           <figure></figure>
@@ -38,7 +40,7 @@
          </figure>
         </section>
         
-        <section>
+        <section id="articles">
           <h2>Latest VR Articles</h2>
           
           <article>
@@ -62,7 +64,7 @@
           </article>
         </section>
           
-          <section>
+          <section id="contact">
             <h2>Contact</h2>
             <p>Email us at TESTEMMAIL@gmail.com</p>
             <address>
@@ -92,8 +94,8 @@
        </aside>
       
       <footer>
-        <p>&copy;2017 Experience VR, The Blog</p>
+        <p><small>&copy;2017 Experience VR, The Blog</p></small>
       </footer>
-    </Div>
+    </Div> 
   </body>
 </html>
