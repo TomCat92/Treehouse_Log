@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Treehouse Workspaces</title>
+  <link rel="shortcut icon" type="image/x-icon" href="https://polaroid-assets.teamtreehouse.com/assets/favicon-ebde1ccae1416de908bb752400a52283.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://polaroid-assets.teamtreehouse.com/assets/apple-touch-icon-60x60-precomposed-655669254661db80ab14f53a1dec1358.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://polaroid-assets.teamtreehouse.com/assets/apple-touch-icon-76x76-precomposed-25a8b52728bca98792f2b57b7e3e7764.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://polaroid-assets.teamtreehouse.com/assets/apple-touch-icon-120x120-precomposed-c35e2f571bfe5816c55aa57056c12d53.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://polaroid-assets.teamtreehouse.com/assets/apple-touch-icon-152x152-precomposed-cf1b213c5aa389729ff730f5746ff8a8.png" />
+
+  <link rel="stylesheet" media="all" href="https://polaroid-assets.teamtreehouse.com/assets/application-0dc87fe48d99ff6eb0f1e8cca18591c9.css" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="i/Q/7zOeSFGBu2b0GfJIVYNEy6/wuRr4/KCPPBXeYqcyTeK4rgX80HO5FWMNao3PfBTV/aRF36Jxsw8lL4k6VQ==" />
+</head>
+<body>
+
+<script>
+  window.CodeViewer = {}
+  CodeViewer.config = {"name":"HTML Basics - Global Structure of an HTML Document","id":"l3wqbapo9p","host":"api-w.trhou.se","treehouse_url":"https://teamtreehouse.com"}
+
+  CodeViewer.student = {
+    profile_name: 'tpv',
+    avatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/10044672/avatar_TommyVinkovich-e1516469095931.jpg'
+  }
+</script>
+<script src="https://polaroid-assets.teamtreehouse.com/assets/application-96c152f3fb1e7a0d8c201a022cff1007.js"></script>
+
+
+</body>
+</html>
